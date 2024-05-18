@@ -1,3 +1,7 @@
+# My Innovative Assignment
+
+![Preview](preview.png)
+
 ## Folder Structure
 
 - **public:** Contains static assets like images, styling files etc.
@@ -8,7 +12,7 @@
 
 1. Clone/Download the repo.
 2. Open your terminal or command prompt and navigate to the project directory.
-3. If nodemon is not installed on your system, run `npm install -g nodemon`. This will install the nodemon at global level.
+3. If nodemon is not installed on your system, run `npm install -g nodemon`.
 4. To install dependencies run `npm install`.
 5. After installing dependencies, run `npm start`.
 6. This will start the local development server using nodemon.
