@@ -1,6 +1,6 @@
 # My Innovative Assignment
 
-![Preview](preview.png)
+<img width="1470" height="868" alt="preview" src="https://github.com/user-attachments/assets/e1416f35-8f79-4779-86b9-2457e9795508" />
 
 ## Folder Structure
 
